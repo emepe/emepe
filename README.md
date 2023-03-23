@@ -1,4 +1,4 @@
-## Olá! Sou a Maria Paula, mas se quiser pode me chamar de mp :)
+## Opa! Meu nome é Maria Paula, mas se quiser pode me chamar de mp :)
 
 - 🔭 Junior buscando por novas experiências!
 - 💻 Ciência da Computação (1/8) - UniBH
