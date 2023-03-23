@@ -6,7 +6,7 @@
 - 😄 Pronouns: ela/dela
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emepe&theme=dark&show_icons=true)
 <div style="display: inline_block"><br>
   <img align="right" alt="mp-pic" height="125" width="125" style="border-radius:50px;" src="https://media.discordapp.net/attachments/789289341922967583/1088480449334104124/picasion.com_4fce2d1ad976010176300fc98efcce8e.gif?width=375&height=375"">
 </div>
