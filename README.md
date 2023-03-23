@@ -20,5 +20,5 @@
   
 </div>
 
-  ![Snake animation](https://github.com/emepe)
+  ![Snake animation](https://github.com/emepe/emepe/blob/output/github-contribution-grid-snake.svg)
  
