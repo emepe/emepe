@@ -19,7 +19,4 @@
   <a href="https://instagram.com/toverysauce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
-<div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emepe&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
