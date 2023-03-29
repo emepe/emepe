@@ -1,6 +1,6 @@
 ## Opa! Meu nome é Maria Paula, mas se quiser pode me chamar de mp :)
 
-- 🔭 Junior buscando por novas experiências!
+- 🔭 Buscando por experiências!
 - 💻 Ciência da Computação (1/8) - UniBH
 - 📫 Entre em contato comigo em: mpaulasousa18@gmail.com
 - 😄 Pronouns: ela/dela
