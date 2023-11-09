@@ -1,4 +1,4 @@
-## Meu nome é Maria Paula, mas se quiser pode me chamar de mp :)
+## mp :)
 
 - 🔭 Buscando por experiências!
 - 💻 Ciência da Computação (1/8) - UniBH
