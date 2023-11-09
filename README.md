@@ -1,9 +1,8 @@
 ## mp :)
 
 - 🔭 Buscando por experiências!
-- 💻 Ciência da Computação (1/8) - UniBH
+- 💻 Ciência da Computação (2/8) - UniBH
 - 📫 Entre em contato comigo em: mpaulasousa18@gmail.com
-- 😄 Pronouns: ela/dela
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emepe&show_icons=true&theme=transparent)
