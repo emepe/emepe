@@ -1,8 +1,8 @@
 ## mp :)
 
 - 🔭 Buscando por experiências!
-- 💻 Ciência da Computação (2/8) - UniBH
-- 📫 Entre em contato comigo em: mpaulasousa18@gmail.com
+- 💻 Ciência da Computação (4/8) - UniBH
+- 📫 Contato: mpaulasousa18@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emepe&show_icons=true&theme=transparent)
