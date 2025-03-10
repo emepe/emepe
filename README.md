@@ -1,8 +1,8 @@
 ## mp :)
 
 - 🔭 Buscando por experiências!
-- 💻 Ciência da Computação (5/8) - UniBH
-- 💻 HTML & CSS - Infinity School (62,5% concluído)
+- 💻 Ciência da Computação - UniBH ███████░░░ 5/8
+- 💻 HTML & CSS - Infinity School ██████░░░░ 4/8
 - 📫 Contato: empe25777@gmail.com
 
 
@@ -17,6 +17,7 @@
   <a href = "mailto:empe25777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariapaula--sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/toverysauce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
 
 
 
