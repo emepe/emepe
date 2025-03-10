@@ -1,8 +1,8 @@
 ## mp :)
 
 - 🔭 Buscando por experiências!
-- 💻 Ciência da Computação - UniBH ███████░░░ 5/8
-- 💻 HTML & CSS - Infinity School ██████░░░░ 4/8
+- 💻 Ciência da Computação - UniBH  ███████░░░ 5/8
+- 💻 HTML & CSS - Infinity School  ██████░░░░ 4/8
 - 📫 Contato: empe25777@gmail.com
 
 
