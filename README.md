@@ -2,7 +2,7 @@
 
 - 🔭 Buscando conhecimento
 - 💻 Ciência da Computação - UniBH 6/8
--  ![icons8-html-48 (2)](https://github.com/user-attachments/assets/37a292de-cc18-4287-a4ea-21c0c538f9ba) H&CIA | HTML & CSS com IA - Infinity School 8/8
+- ![icons8-html-48 (2)](https://github.com/user-attachments/assets/536e2d3d-27fe-406e-a428-3d11784deb1d) H&CIA | HTML & CSS com IA - Infinity School 8/8
 - 💻 JSIA | JavaScript com IA - Infinity School 12/16 
 - 📫 Contato: empe25777@gmail.com
 
