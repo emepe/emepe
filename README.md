@@ -1,8 +1,9 @@
 ## mp :)
 
 - 🔭 Buscando conhecimento
-- 💻 Ciência da Computação - UniBH <img alt="progresso_infinity" height="17" src="https://media.discordapp.net/attachments/789290063405776910/1348689628055601262/62.5.png?ex=67d06098&is=67cf0f18&hm=5f2dde47f32ee68af7a0c9ffa5800e6fb28a18ee53ffc9113719a76336691f5e&=&format=webp&quality=lossless&width=575&height=80"> 5/8
-- 💻 HTML & CSS - Infinity School <img alt="progresso_infinity" height="17" src="https://media.discordapp.net/attachments/789290063405776910/1348689628055601262/62.5.png?ex=67d06098&is=67cf0f18&hm=5f2dde47f32ee68af7a0c9ffa5800e6fb28a18ee53ffc9113719a76336691f5e&=&format=webp&quality=lossless&width=575&height=80"> 4/8
+- 💻 Ciência da Computação - UniBH 6/8
+- ![icons8-html-48](https://github.com/user-attachments/assets/9ed5e988-cd9f-47e6-a3a3-25d79dcd1e5e) H&CIA | HTML & CSS com IA - Infinity School 8/8
+- 💻 JSIA | JavaScript com IA - Infinity School 12/16 
 - 📫 Contato: empe25777@gmail.com
 
 
